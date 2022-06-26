@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1628666576 source:c:\users\ganesh naik\onedrive\desktop\mini_project\aquarium\main.c
+	<stdio.h>
+	<stdlib.h>
+	<freeglut.h>
+	<math.h>
+
+1656252221 source:c:\users\my pc\desktop\cgv_project\aquarium-opengl-project-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	<freeglut.h>
+	<math.h>
+
